@@ -44,5 +44,16 @@ Fitbit fitness tracker data obtained from a dataset sourced from Kaggle, coverin
 - Provide actionable insights to support WeFit's growth and strategic initiatives.
 
 This project aims to leverage Fitbit data to enhance marketing strategies, improve customer targeting, and drive business growth across WeFit's subsidiaries.
-### Final Dashboard Creation in Excel
+## Final Dashboard Creation in Excel
+### TASK 1 : Analyze the data and find some potential customers for leanfit. 
+![](https://github.com/adarshp733/Analysed_Fitbit_Tracker_Using_Excel/blob/main/Fianl_Dashboard/Screenshot%202024-07-19%20184544.png)
+
+### TASK 2 :  Analyze the data and find some potential customers for fitwear
+![](https://github.com/adarshp733/Analysed_Fitbit_Tracker_Using_Excel/blob/main/Fianl_Dashboard/Screenshot%202024-07-19%20184449.png)
+
+### TASK 3 :  Analyze the data and find some potential customers for sleepy-nights.
+![](https://github.com/adarshp733/Analysed_Fitbit_Tracker_Using_Excel/blob/main/Fianl_Dashboard/Screenshot%202024-07-19%20184449.png)
+
+### TASK 4 : WeFit Daily Activity Analytics Dashboard 
+![](https://github.com/adarshp733/Analysed_Fitbit_Tracker_Using_Excel/blob/main/Fianl_Dashboard/Screenshot%202024-07-19%20184449.png)
 
